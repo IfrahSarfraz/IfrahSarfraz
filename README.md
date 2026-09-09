@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/IfrahSarfraz">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a371f7&fontSize=54&height=90&width=794&text=Hi!%20I%20am%20Ifrah%20Sarfraz" alt="Hi! I am Ifrah Sarfraz" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C7D3D4&fontSize=54&height=90&width=794&text=Hi!%20I%20am%20Ifrah%20Sarfraz" alt="Hi! I am Ifrah Sarfraz" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=865&height=44&lines=Software%20Engineering%20student%20%7C%20ML%20%26%20Frontend%20enthusiast;Turning%20coffee%20into%20clean%2C%20tested%20code" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=603f83&center=true&vCenter=true&width=865&height=44&lines=Software%20Engineering%20student%20%7C%20ML%20%26%20Frontend%20enthusiast;Turning%20coffee%20into%20clean%2C%20tested%20code" alt="Typing headlines" />
 </p>
 
 ###  About Me
