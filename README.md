@@ -1,23 +1,23 @@
 <p align="center">
   <a href="https://github.com/IfrahSarfraz">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=794&text=Hi!%20I%20am%20Ifrah%20Sarfraz" alt="Hi! I am Ifrah Sarfraz" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=56d4dd&fontSize=54&height=90&width=794&text=Hi!%20I%20am%20Ifrah%20Sarfraz" alt="Hi! I am Ifrah Sarfraz" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=865&height=44&lines=Software%20Engineering%20student%20%7C%20ML%20%26%20Frontend%20enthusiast;Turning%20coffee%20into%20clean%2C%20tested%20code" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=865&height=44&lines=Software%20Engineering%20student%20%7C%20ML%20%26%20Frontend%20enthusiast;Turning%20coffee%20into%20clean%2C%20tested%20code" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
 Software Engineering student who works across ML and full-stack web. I fine-tune vision-language models, build React/MERN apps, and like turning research papers into working code.
 
-👯 &nbsp;I'm looking to collaborate on **applied ML / computer vision projects, or open-source dev tools**  
-💬 &nbsp;Ask me about **React, MERN stack, computer vision, LLM agents**  
-😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I once trained a model at 3am chasing 0.1% more accuracy**
+ &nbsp;I'm looking to collaborate on **applied ML / computer vision projects, or open-source dev tools**  
+ &nbsp;Ask me about **React, MERN stack, computer vision, LLM agents**  
+ &nbsp;Pronouns: **she/her**  
+ &nbsp;Fun fact: **I once trained a model at 3am chasing 0.1% more accuracy**
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -55,25 +55,25 @@ Software Engineering student who works across ML and full-stack web. I fine-tune
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 🔗 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ifrah-sarfraz-597b62289"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ifrahsarfraz02@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=IfrahSarfraz&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=IfrahSarfraz&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 💭 Dev Quote
+###  Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/IfrahSarfraz">IfrahSarfraz</a></i></p>
+<p align="center"><i> From <a href="https://github.com/IfrahSarfraz">IfrahSarfraz</a></i></p>
