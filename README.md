@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/IfrahSarfraz">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=56d4dd&fontSize=54&height=90&width=794&text=Hi!%20I%20am%20Ifrah%20Sarfraz" alt="Hi! I am Ifrah Sarfraz" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a371f7&fontSize=54&height=90&width=794&text=Hi!%20I%20am%20Ifrah%20Sarfraz" alt="Hi! I am Ifrah Sarfraz" />
   </a>
 </p>
 
